@@ -1,0 +1,6 @@
+{
+  "name": "تعلم اللغة الانكليزية",
+  "description": "تطبيق شامل لتعلم اللغة الإنجليزية من مستوى المبتدئ A1 إلى المستوى الاحترافي C2 مع القواعد، نظام التكرار المتباعد، صوتيات IPA، والمهارات الأربع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

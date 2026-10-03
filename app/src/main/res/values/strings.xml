@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">تعلم اللغة الانكليزية</string>
+    <string name="app_tagline">من المبتدئ إلى الاحتراف A1 - C2</string>
+    <string name="tab_learn">الدروس</string>
+    <string name="tab_vocab">المفردات</string>
+    <string name="tab_phonetics">الصوتيات</string>
+    <string name="tab_skills">المهارات 4</string>
+    <string name="tab_profile">التقدم</string>
+</resources>
